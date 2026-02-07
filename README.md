@@ -18,8 +18,8 @@
 
 ![alt text](image.png)
 
-##PDF
-[text](pdf/Imran_Karim_CV.pdf)
+## PDF
+[Preview in pdf](pdf/Imran_Karim_CV.pdf)
 
 
 ## Quick Start
